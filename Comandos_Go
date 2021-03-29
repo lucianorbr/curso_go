@@ -1,0 +1,9 @@
+
+go env = mostra algumas variaveis de ambiente referente a instalação
+
+pasta bin = local onde fica os executaveis dos programas criados
+pasta pkg = pasta onde tem os compilados, toda a estrutura do codigo fonte
+pasta src = pasta onde fica os arquivos fontes de controle de versionamento de projetos.
+
+lib = a biblioteca
+
