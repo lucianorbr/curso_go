@@ -20,7 +20,7 @@ func main() {
 	fmt.Println("O valor máximo do int é", i1)
 	fmt.Println("O tipo de i1 é", reflect.TypeOf(i1))
 
-	var i2 rune = 'a' // representa um mapeamento da tablea Unicode (int32)
+	var i2 = 'a' // representa um mapeamento da tablea Unicode (int32)
 	fmt.Println("O rune é", reflect.TypeOf(i2))
 	fmt.Println(i2)
 
